@@ -1,3 +1,5 @@
+طاها عباس وند کرگان تایم یکشنبه 7:30
+
 🕹 Tic-Tac-Toe Game (Command Line Version)
 
 This is a simple two-player Tic-Tac-Toe game implemented in Python. The game runs in the terminal and allows two players to take turns entering their moves. The board is displayed after each move, and the game checks for a winner or a draw.
